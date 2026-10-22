@@ -1,0 +1,12 @@
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+.DS_Store
+.env
+data/*
+!data/README.md
+
+# Local environment and editor artifacts
+.env.*
+*.pyc
+.vscode/
